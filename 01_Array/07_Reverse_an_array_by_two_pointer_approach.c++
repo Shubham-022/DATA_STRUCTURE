@@ -1,3 +1,5 @@
+//with function
+//both codes is done by "two pointer approach"
 #include<iostream>
 using namespace std;
 
@@ -31,6 +33,8 @@ int main()
     }
 }
 
+
+//easy way
 
 // #include<iostream>
 // using namespace std;
