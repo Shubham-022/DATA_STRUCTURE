@@ -24,4 +24,6 @@ int main()
         }
         cout<<endl;
     }
+    //hoe to access element;
+     cout<<endl<<endl<<arr[1][3];
 }
