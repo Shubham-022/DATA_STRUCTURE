@@ -25,9 +25,10 @@ int main()
     //algorithm
      int start=0;
     int  end=n-1;
-    for(int i=0;i<arr.size();i++)
+    //for(int i=0;i<arr.size();i++)
+    while(end>start)
     {
-       if(end>start)
+       //if(end>start)
        {
            if(arr[start]==1)
            {
