@@ -1,5 +1,5 @@
 #include<iostream>
-#include<string.h>
+#include<strings.h>
 using namespace std;
 void uppercase(char arr[])
 {
@@ -37,5 +37,5 @@ int main()
     lowercase(arr);
     cout<<"in Lowercase : ";
     cout<<arr;   
-    
+
 }
