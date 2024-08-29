@@ -7,7 +7,7 @@ int main()
     vector<int>arr;
     int n,k;
     //input
-    cout<<"Enterthenumber of elements in array ";
+    cout<<"Enter the number of elements in array ";
     cin>>n;
     for(int i=0;i<n;i++)
     {
